@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+*BASED ON TUTORIALS ON OFFICIAL FLUTTER DOCUMENTATION. APP IDEA, DESIGN and CONCEPT NOT CREATED BY ME.*
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
